@@ -11,8 +11,6 @@ As a self-taught full stack developer, I have developed a deep understanding of 
 * 🧠  I'm learning C#/.NET
 * 🤝  I'm open to collaborating on E-Commerce/Management System/CRM
 
-<a href="https://www.github.com/networkbassem" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/networkbassem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
